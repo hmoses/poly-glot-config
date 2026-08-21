@@ -1,6 +1,6 @@
 {
-  "ios_min_build": 1,
-  "mac_min_build": 1,
+  "ios_min_build": 447,
+  "mac_min_build": 236,
   "message": "A new version is available with important updates. Please update to continue.",
   "force": true,
   "store_url_ios": "https://apps.apple.com/app/id6762054909",
