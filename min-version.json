@@ -1,8 +1,8 @@
 {
-  "ios_min_build": 447,
-  "mac_min_build": 236,
-  "message": "A new version is available with important updates. Please update to continue.",
-  "force": true,
-  "store_url_ios": "https://apps.apple.com/app/id6762054909",
-  "store_url_mac": "https://apps.apple.com/app/id6762222589"
+  "ios_min_build": 0,
+  "mac_min_build": 0,
+  "message": "An update may be available. Visit the App Store to check. Apple controls installation.",
+  "force": false,
+  "store_url_ios": "https://apps.apple.com/us/app/poly-glot-ai-workspace/id6804499285",
+  "store_url_mac": "https://apps.apple.com/us/app/poly-glot-ai-workspace/id6804499285?mt=12"
 }
